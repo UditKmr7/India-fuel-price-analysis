@@ -23,3 +23,8 @@ Analysis of daily petrol and diesel prices across 6 major Indian cities from 202
 - Mumbai consistently has the highest fuel prices
 - Strong correlation between petrol and diesel prices
 - Long price freeze periods observed post-2022
+
+## Predictive Modeling
+- Regression models (Linear Regression, Decision Tree, Random Forest) to predict petrol prices
+- Classification model to predict price-freeze periods using Logistic Regression, Decision Tree, and Random Forest
+- Evaluated using R², RMSE, accuracy, confusion matrices, and ROC curves
