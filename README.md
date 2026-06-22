@@ -28,3 +28,10 @@ Analysis of daily petrol and diesel prices across 6 major Indian cities from 202
 - Regression models (Linear Regression, Decision Tree, Random Forest) to predict petrol prices
 - Classification model to predict price-freeze periods using Logistic Regression, Decision Tree, and Random Forest
 - Evaluated using R², RMSE, accuracy, confusion matrices, and ROC curves
+
+# ⛽ India Fuel Price Analysis (EDA)
+* Performed Exploratory Data Analysis (EDA) on daily petrol and diesel prices across major Indian cities using Python.
+* Cleaned and transformed the dataset using Pandas, including date handling and feature engineering.
+* Analyzed fuel price trends over time and compared price variations across different cities and states.
+* Explored the impact of state VAT rates on fuel prices through correlation and comparative analysis.
+* Created insightful visualizations using Matplotlib and Seaborn to identify patterns, trends, and anomalies in fuel pricing.
